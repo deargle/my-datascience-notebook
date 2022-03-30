@@ -1,6 +1,4 @@
-# copied from https://docs.docker.com/compose/
-
-version: "3.9"  # optional since v1.27.0
+version: "3.9"
 services:
   jupyter:
     build: .
